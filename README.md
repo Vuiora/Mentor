@@ -1,5 +1,7 @@
 # Mentor
 
+[简体中文](README.md) | [English](README.en.md)
+
 **用强模型设计和改进应用，用低成本模型稳定执行应用。**
 
 Mentor 将业务需求、文档样本与验收规则转化为可验证、可部署、可持续优化的 AI 工作流。首个版本聚焦**文档抽取与校验，优先采用 n8n + Docling**；后续通过独立适配器支持 Dify。
@@ -564,6 +566,7 @@ Mentor 自身使用 MIT 许可证；集成组件保留各自许可。首版按�
 ```text
 Mentor/
   README.md
+  README.en.md
   LICENSE
   pyproject.toml
   uv.lock
