@@ -1,0 +1,2 @@
+# Mentor
+Mentor旨在通过使用较强的大模型构造搭建较弱模型参与的标准Dify或者n8n+Docling形式的涉及模型参与的AI级应用
